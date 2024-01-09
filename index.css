@@ -137,6 +137,6 @@ button[type="submit"]:hover {
 }
 
 #generate{
-    border-radius: 150%;
+/*     border-radius: 150%; */
     width: 100%;
 }
