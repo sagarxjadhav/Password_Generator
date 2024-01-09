@@ -30,7 +30,7 @@ main{
     max-width: 640px;
     padding: 2rem 1rem;
     background-color: white;
-/*     border-radius: 1rem; */
+    border-radius: 1rem;
 }
 
 h1{
@@ -137,6 +137,5 @@ button[type="submit"]:hover {
 }
 
 #generate{
-    border-radius: 150%;
     width: 100%;
 }
